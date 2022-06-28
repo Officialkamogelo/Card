@@ -1,5 +1,5 @@
 # card
-Creating a personal portfolio using 
+Creating a basic website using 
 HTML CSS
 
 
@@ -11,7 +11,7 @@ HTML CSS
 
 ## Live Demo
 
-[Live Demo Link] 
+[Live Demo Link] https://bucolic-donut-ccc921.netlify.app/
 
 ## Authors
 
